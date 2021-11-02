@@ -1,0 +1,63 @@
+{
+	"about_me": {
+		"name": "Luís Henrique",
+		"age": 15,
+		"specialty": "backend",
+		"nacionality": "brazilian"
+	},
+
+	"personal": {
+		"birth_day": "12/09",
+		"favorite_food": "Beef and cream",
+		"favorite_subject": "math"
+	},
+
+	"technical_info": {
+		"most_used_languages": [
+			"TypeScript",
+			"Go",
+			"C++",
+			"Python"
+		],
+
+		"most_used_frameworks": [
+			{
+				"framework": "Express",
+				"lang": "JavaScript/TypeScript"
+			},
+			{
+				"framework": "Socket.io",
+				"lang": "JavaScript/TypeScript"
+			},
+			{
+				"framework": "V8",
+				"lang": "C++"
+			},
+			{
+				"framework": "SFML",
+				"lang": "C++"
+			},
+			{
+				"framework": "Gorilla",
+				"lang": "Go"
+			},
+			{
+				"framework": "Flask",
+				"lang": "Python"
+			}
+		]
+	},
+
+	"student_info": {
+		"olympics": [
+			{
+				"initials": "OBI",
+				"name": "Brazilian Informatic Olympics"
+			},
+			{
+				"initials": "OBR",
+				"name": "Brazilian Robotic Olympics"
+			}
+		]
+	}
+}
