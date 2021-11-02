@@ -7,7 +7,7 @@ import (
 )
 
 /**
-* Structs to be used in the json file
+* Struct to be used in the json file
 */
 type Json struct {
 	AboutMe AboutMe `json:"about_me"`
